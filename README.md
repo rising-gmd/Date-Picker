@@ -8,3 +8,7 @@ Before you can use this custom date picker, you need to install the required dep
 
 ```bash
 npm install
+
+## Live Demo
+
+You can access a live demo of the custom date picker here: [Custom Date Picker Demo](https://datepicker-pro.netlify.app/)
