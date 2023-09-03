@@ -6,9 +6,10 @@ This is a custom date picker component built without using the built-in input ty
 
 Before you can use this custom date picker, you need to install the required dependencies. Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
+Custom Date Picker Demo: https://datepicker-pro.netlify.app/
+
 ```bash
 npm install
 
 ## Live Demo
 
-You can access a live demo of the custom date picker here: [Custom Date Picker Demo](https://datepicker-pro.netlify.app/)
